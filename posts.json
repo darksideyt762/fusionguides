@@ -1,0 +1,22 @@
+{
+  "config": {},
+  "posts": [
+    {
+      "id": "mnxa7pb3iwlw",
+      "title": "Test",
+      "category": "TUTORIAL",
+      "date": "2026-04-13",
+      "videoUrl": "https://youtu.be/sNUCVWgWF-c",
+      "description": "Hy",
+      "links": [
+        {
+          "label": "Files",
+          "url": "https://t.me/yourchannel",
+          "size": "200kb"
+        }
+      ],
+      "createdAt": "2026-04-13T14:22:23.200Z",
+      "updatedAt": "2026-04-13T14:22:23.200Z"
+    }
+  ]
+}
