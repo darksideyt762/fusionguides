@@ -17,6 +17,23 @@
       ],
       "createdAt": "2026-04-13T14:22:23.200Z",
       "updatedAt": "2026-04-13T14:22:23.200Z"
+    },
+    {
+      "id": "mnxdinw5",
+      "title": "Hack",
+      "category": "TOOLS",
+      "date": "2026-04-13",
+      "image": "",
+      "videoUrl": "https://youtu.be/sNUCVWgWF-c",
+      "description": "What is this",
+      "links": [
+        {
+          "icon": "🔗",
+          "label": "Download hack",
+          "url": "t.me/snailyt",
+          "size": "20kb"
+        }
+      ]
     }
   ]
 }
